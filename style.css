@@ -23,3 +23,23 @@ font-weight: 500;
     padding-left: 450px;
     margin-bottom: 10px;
 }
+#discover{
+    font-size: 40px;
+    font-weight: 600;
+    color: black;
+}
+#carousel{
+    display: flex;
+    padding-left: 100px;
+    /* margin-bottom: 100px; */
+}
+#our{
+    font-size: 15px;
+    font-weight: lighter;
+    padding-top: 20px;
+}
+.Us{
+    text-align: center;
+    font-weight: 500px;
+}
+
