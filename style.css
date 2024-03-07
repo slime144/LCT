@@ -1,0 +1,25 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: wheat ;
+}
+
+.nav-item a{
+  color: black;
+font-weight: 500;
+}
+
+#islam{
+    font-size: 40px;
+    color: blue;
+    font-weight: 500px;
+}
+#navbarSupportedContent{
+    padding-left: 450px;
+    margin-bottom: 10px;
+}
